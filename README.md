@@ -113,8 +113,7 @@ ac_anomaly_detector/
 ### Default Anomaly Classes
 
 ```
-knife, scissors, cell phone, backpack,
-handbag, suitcase, baseball bat, bottle
+knife, scissors, cell phone, 
 ```
 
 These are all detectable by standard YOLOv8 trained on COCO. You can add or remove any class from `config.py`.
@@ -131,11 +130,7 @@ These are all detectable by standard YOLOv8 trained on COCO. You can add or remo
 | Detection classes | 80 (COCO) |
 | Anomaly trigger classes | 8 (configurable) |
 
-### Screenshots
 
-> *(Add your screenshots here — use `S` key to capture while running)*
-
----
 
 ## UI Theme: Assassin's Creed Eagle Vision
 
