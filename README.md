@@ -131,6 +131,11 @@ These are all detectable by standard YOLOv8 trained on COCO. You can add or remo
 | Anomaly trigger classes | 8 (configurable) |
 
 
+## Results
+---
+<img width="2560" height="1440" alt="Screenshot from 2026-04-22 22-14-32" src="https://github.com/user-attachments/assets/42f214d2-ba22-46bc-b75e-cde32a04096f" />
+
+---
 
 ## UI Theme: Assassin's Creed Eagle Vision
 
@@ -143,5 +148,5 @@ The HUD is inspired by the **Eagle Vision** ability from the Assassin's Creed fr
 MIT License — free to use, modify, and share.
 
 
-<img width="2560" height="1440" alt="Screenshot from 2026-04-22 22-14-32" src="https://github.com/user-attachments/assets/9822c7ca-250d-46bb-8118-385f1654e96c" />
+
 
