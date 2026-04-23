@@ -141,3 +141,7 @@ The HUD is inspired by the **Eagle Vision** ability from the Assassin's Creed fr
 ## License
 
 MIT License — free to use, modify, and share.
+
+
+<img width="2560" height="1440" alt="Screenshot from 2026-04-22 22-14-32" src="https://github.com/user-attachments/assets/9822c7ca-250d-46bb-8118-385f1654e96c" />
+
